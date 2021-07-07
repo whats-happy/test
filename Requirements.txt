@@ -1,0 +1,1 @@
+numpy==1.15.4streamlit==0.52.2pandas==1.1.5
